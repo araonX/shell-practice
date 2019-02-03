@@ -6,6 +6,9 @@ change_file()
   find $dir/ -type f -mmin -3600>/tmp/file.list
   n1=`wc -l /tmp/file.list | awk '{print $1}'`
   if [ $n1 -ne 0 ];then
+    git add $dir/*.sh
+    git commit -m "$date"
+    git push origin master
     echo "`date +"%D %H:%M:%S"`" >>/tmp/$date.log
     echo '===============================' >>/tmp/$date.log
     cat /tmp/file.list >> /tmp/$date.log
