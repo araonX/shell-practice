@@ -14,7 +14,7 @@ change_file()
     fi
     echo "`date +"%D %H:%M:%S"`" >>/tmp/$date.log
     echo '===============================' >>/tmp/$date.log
-    grep '.sh$' /tmp/file.list >> /tmp/$date.log
+    grep '.sh$' /tmp/file.list | awk -F '/' '{print $5}' >> /tmp/$date.log
     echo '+++++++++++++++++++++++++++++++' >>/tmp/$date.log
   fi
 }
@@ -22,7 +22,7 @@ change_file()
 while true
   do 
     mail_date=`date +%H:%M:%S`
-    if [ "$mail_date" == "22:50:00" ];then
+    if [ "$mail_date" == "23:03:00" ];then
       change_file
       sn=`grep '.sh$' /tmp/file.list | wc -l | awk '{print $1}'`
       /usr/bin/mailx -s " Yesterday you Practiced $sn scirpts, Come On!" 568867090@qq.com < /tmp/$date.log
