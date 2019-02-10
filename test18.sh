@@ -25,7 +25,7 @@ while true
     if [ "$mail_date" == "23:03:00" ];then
       change_file
       sn=`grep '.sh$' /tmp/file.list | wc -l | awk '{print $1}'`
-      /usr/bin/mailx -s " Yesterday you Practiced $sn scirpts, Come On!" 568867090@qq.com < /tmp/$date.log
+      /usr/bin/mailx -s " Yesterday you Practiced $sn scripts, Come On!" 568867090@qq.com < /tmp/$date.log
       sleep 10
     fi
   done
