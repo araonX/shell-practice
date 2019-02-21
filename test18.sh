@@ -11,6 +11,8 @@ change_file()
     git push origin master
     if [ $? == 0 ];then
       echo "git push successfully." >>/tmp/$date.log
+    else
+      echo "git push failed." >>/tmp/$date.log
     fi
     echo "`date +"%D %H:%M:%S"`" >>/tmp/$date.log
     echo '===============================' >>/tmp/$date.log
@@ -22,7 +24,7 @@ change_file()
 while true
   do 
     mail_date=`date +%H:%M:%S`
-    if [ "$mail_date" == "23:03:00" ];then
+    if [ "$mail_date" == "00:30:00" ];then
       change_file
       sn=`grep '.sh$' /tmp/file.list | wc -l | awk '{print $1}'`
       /usr/bin/mailx -s " Yesterday you Practiced $sn scripts, Come On!" 568867090@qq.com < /tmp/$date.log
