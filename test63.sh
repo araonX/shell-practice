@@ -4,12 +4,12 @@ url=www.baidu.com/index.php
 ipf=/data/ip.list
 
 curl -x$s_ip:80 $url 2>/dev/null >/tmp/source.txt
-for ip in `cat $ipf`
+while read ip
 do
-  curl -x$ip:80 $url 2>/dev/null >/tmp/$ip.txt
+  curl -x$ip:80 $url >/dev/null 2>&1 >/tmp/$ip.txt
   diff /tmp/source.txt /tmp/$ip.txt >/tmp/$ip.diff
   n=`wc -l /tmp/$ip.diff|awk '{print $1}'`
   if [ $n -gt 0 ];then
     echo "$ip is error."
   fi
-done
+done < $ipf
