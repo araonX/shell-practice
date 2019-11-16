@@ -1,0 +1,2701 @@
+This is a test for EOF
+
+[master 2c9e205] 2019-02-11 23:03:00 commit
+ 5 files changed, 84 insertions(+), 3 deletions(-)
+ mode change 100644 => 100755 test20.sh
+ create mode 100755 test21.sh
+ create mode 100755 test22.1.sh
+ create mode 100644 test22.sh
+ create mode 100644 test23.sh
+To git@github.com:araonX/shell-practice.git
+   0c33c21..2c9e205  master -> master
+[master 560b175] 2019-02-12 23:03:00 commit
+ 3 files changed, 26 insertions(+)
+ mode change 100644 => 100755 test23.sh
+ create mode 100755 test24.sh
+ create mode 100755 test25.sh
+To git@github.com:araonX/shell-practice.git
+   2c9e205..560b175  master -> master
+[master 3256ea2] 2019-02-13 23:03:00 commit
+ 4 files changed, 139 insertions(+)
+ create mode 100644 test26.sh
+ create mode 100755 test27.sh
+ create mode 100755 test28.sh
+ create mode 100755 test29.sh
+To git@github.com:araonX/shell-practice.git
+   560b175..3256ea2  master -> master
+[master f976962] 2019-02-14 23:03:00 commit
+ 1 file changed, 20 insertions(+)
+ create mode 100755 test30.sh
+To git@github.com:araonX/shell-practice.git
+   3256ea2..f976962  master -> master
+[master b7c5935] 2019-02-15 23:03:00 commit
+ 3 files changed, 51 insertions(+)
+ create mode 100755 test31.sh
+ create mode 100755 test32.sh
+ create mode 100755 test33.sh
+To git@github.com:araonX/shell-practice.git
+   f976962..b7c5935  master -> master
+[master 872be3c] 2019-02-16 23:03:00 commit
+ 2 files changed, 64 insertions(+), 1 deletion(-)
+ create mode 100755 test34.sh
+To git@github.com:araonX/shell-practice.git
+   b7c5935..872be3c  master -> master
+[master 6c330d4] 2019-02-17 23:03:00 commit
+ 4 files changed, 83 insertions(+)
+ create mode 100755 test35.sh
+ create mode 100755 test36.sh
+ create mode 100755 test37.sh
+ create mode 100755 test38.sh
+To git@github.com:araonX/shell-practice.git
+   872be3c..6c330d4  master -> master
+[master 121df31] 2019-02-18 23:03:00 commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To git@github.com:araonX/shell-practice.git
+   6c330d4..121df31  master -> master
+[master 7b89984] 2019-02-19 23:03:00 commit
+ 1 file changed, 13 insertions(+)
+ create mode 100755 test39.sh
+To git@github.com:araonX/shell-practice.git
+   121df31..7b89984  master -> master
+[master fe70453] 2019-02-20 23:03:00 commit
+ 2 files changed, 39 insertions(+)
+ create mode 100755 test40.sh
+ create mode 100755 test41.sh
+To git@github.com:araonX/shell-practice.git
+   7b89984..fe70453  master -> master
+[master 8acf6d4] 2019-02-22 00:30:00 commit
+ 7 files changed, 179 insertions(+), 1 deletion(-)
+ create mode 100755 test42.sh
+ create mode 100755 test43.sh
+ create mode 100755 test44.sh
+ create mode 100755 test45.sh
+ create mode 100755 test46.sh
+ create mode 100755 test47.sh
+To git@github.com:araonX/shell-practice.git
+   fe70453..8acf6d4  master -> master
+[master 1ffbd85] 2019-02-23 00:30:00 commit
+ 2 files changed, 30 insertions(+), 1 deletion(-)
+ create mode 100755 test48.sh
+To git@github.com:araonX/shell-practice.git
+   8acf6d4..1ffbd85  master -> master
+[master d6d3e1c] 2019-02-24 00:30:00 commit
+ 1 file changed, 6 insertions(+)
+ create mode 100755 test49.sh
+To git@github.com:araonX/shell-practice.git
+   1ffbd85..d6d3e1c  master -> master
+[master f98588c] 2019-02-25 00:30:00 commit
+ 3 files changed, 35 insertions(+), 4 deletions(-)
+ create mode 100755 test50.sh
+ create mode 100755 test51.sh
+To git@github.com:araonX/shell-practice.git
+   d6d3e1c..f98588c  master -> master
+[master 3084b1a] 2019-02-26 00:30:00 commit
+ 1 file changed, 2 insertions(+)
+ create mode 100644 test52.sh
+To git@github.com:araonX/shell-practice.git
+   f98588c..3084b1a  master -> master
+[master 62430bf] 2019-02-27 00:30:00 commit
+ 10 files changed, 136 insertions(+), 1 deletion(-)
+ mode change 100644 => 100755 test52.sh
+ create mode 100755 test53.1.sh
+ create mode 100755 test53.sh
+ create mode 100755 test54.1.sh
+ create mode 100755 test54.sh
+ create mode 100755 test55.1.sh
+ create mode 100755 test55.sh
+ create mode 100755 test56.1.sh
+ create mode 100755 test56.sh
+ create mode 100755 test57.sh
+To git@github.com:araonX/shell-practice.git
+   3084b1a..62430bf  master -> master
+[master c40acdb] 2019-02-28 00:30:00 commit
+ 3 files changed, 167 insertions(+)
+ create mode 100755 test58.1.sh
+ create mode 100755 test58.sh
+ create mode 100755 test59.sh
+To git@github.com:araonX/shell-practice.git
+   62430bf..c40acdb  master -> master
+[master b0d7021] 2019-03-01 00:30:00 commit
+ 6 files changed, 72 insertions(+), 4 deletions(-)
+ create mode 100644 test59.1.sh
+ create mode 100755 test60.sh
+ create mode 100755 test61.sh
+ create mode 100644 test62.sh
+ create mode 100755 test63.sh
+To git@github.com:araonX/shell-practice.git
+   c40acdb..b0d7021  master -> master
+[master 5a7606c] 2019-03-02 00:30:00 commit
+ 2 files changed, 19 insertions(+), 3 deletions(-)
+ create mode 100755 test64.sh
+To git@github.com:araonX/shell-practice.git
+   b0d7021..5a7606c  master -> master
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+[master 37d40a3] 2019-03-05 00:30:00 commit
+ 2 files changed, 67 insertions(+)
+ create mode 100755 test65.sh
+ create mode 100755 test66.sh
+To git@github.com:araonX/shell-practice.git
+   5a7606c..37d40a3  master -> master
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+[master 69b3185] 2019-03-09 00:30:00 commit
+ 1 file changed, 2 insertions(+)
+ create mode 100755 test67.sh
+To git@github.com:araonX/shell-practice.git
+   37d40a3..69b3185  master -> master
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+smtp-server: 460 ERR.LOGIN.PASSCHANGE
+. . . message not sent.
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+smtp-server: 460 ERR.LOGIN.PASSCHANGE
+. . . message not sent.
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+/root/practice/sh/test18.sh: line 30: /tmp/202510030030.log: No such file or directory
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+/root/practice/sh/test18.sh: line 30: /tmp/202501110030.log: No such file or directory
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	123.tar.gz
+#	2019-02-24.tar.gz
+#	backup.sh.tar
+#	c.txt
+#	info/
+#	nohup.out
+#	readme.txt
+nothing added to commit but untracked files present (use "git add" to track)
+Everything up-to-date
+/root/practice/sh/test18.sh: line 9: git: command not found
+/root/practice/sh/test18.sh: line 10: git: command not found
+/root/practice/sh/test18.sh: line 11: git: command not found
+/root/practice/sh/test18.sh: line 9: git: command not found
+/root/practice/sh/test18.sh: line 10: git: command not found
+/root/practice/sh/test18.sh: line 11: git: command not found
+/root/practice/sh/test18.sh: line 9: git: command not found
+/root/practice/sh/test18.sh: line 10: git: command not found
+/root/practice/sh/test18.sh: line 11: git: command not found
+/root/practice/sh/test18.sh: line 9: git: command not found
+/root/practice/sh/test18.sh: line 10: git: command not found
+/root/practice/sh/test18.sh: line 11: git: command not found
+/root/practice/sh/test18.sh: line 9: git: command not found
+/root/practice/sh/test18.sh: line 10: git: command not found
+/root/practice/sh/test18.sh: line 11: git: command not found
+/root/practice/sh/test18.sh: line 9: git: command not found
+/root/practice/sh/test18.sh: line 10: git: command not found
+/root/practice/sh/test18.sh: line 11: git: command not found
+/root/practice/sh/test18.sh: line 9: git: command not found
+/root/practice/sh/test18.sh: line 10: git: command not found
+/root/practice/sh/test18.sh: line 11: git: command not found
+/root/practice/sh/test18.sh: line 9: git: command not found
+/root/practice/sh/test18.sh: line 10: git: command not found
+/root/practice/sh/test18.sh: line 11: git: command not found
+/root/practice/sh/test18.sh: line 9: git: command not found
+/root/practice/sh/test18.sh: line 10: git: command not found
+/root/practice/sh/test18.sh: line 11: git: command not found
+/root/practice/sh/test18.sh: line 9: git: command not found
+/root/practice/sh/test18.sh: line 10: git: command not found
+/root/practice/sh/test18.sh: line 11: git: command not found
